@@ -41,8 +41,4 @@ Stock-Price-Predictor/
 5. Predict stock prices  
 6. Evaluate model performance  
 
-## ▶️ Execution Steps
-
-### Step 1: Clone the Repository
-
 
